@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gustaYo/vue-chess.git"
+    "url": "git+https://github.com/r3klaw/vue-chess.git"
   },
   "keywords": [
     "vuejs",
@@ -26,9 +26,9 @@
   "author": "gustaYo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gustaYo/vue-chess/issues"
+    "url": "https://github.com/r3klaw/vue-chess/issues"
   },
-  "homepage": "https://github.com/gustaYo/vue-chess#readme",
+  "homepage": "https://github.com/r3klaw/vue-chess#readme",
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-loader": "^6.0.0",
