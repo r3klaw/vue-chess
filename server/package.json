@@ -18,7 +18,7 @@
     "body-parser": "~1.0.0",
     "chess.js": "^0.10.0",
     "compression": "^1.6.2",
-    "ejs": "~1.0.0",
+    "ejs": "~2.5.5",
     "engine.io-client": "^1.6.9",
     "express": "4.x",
     "express-jwt": "latest",
